@@ -1,3 +1,3 @@
 # do-you-understand-
 this is my first git repository 
-<br>author- sycho111</br>
+<br>author- sycho111
